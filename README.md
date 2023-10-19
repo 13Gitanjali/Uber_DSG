@@ -25,5 +25,5 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## Contact
 Gitanjali Khatri - gitanjali.khatri127@gmail.com
 
-Project Link: https://github.com/13Gitanjali/uber-demand-supply-gap-prediction
+Project Link: https://github.com/13Gitanjali/Uber-DSG
 
